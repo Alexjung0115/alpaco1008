@@ -7,7 +7,8 @@
 5. Data: 0~9이미지의 MNIST train:60000, test: 30000
 
 <br>
-![architecture](https://github.com/user-attachments/assets/5d62eade-54ad-4665-9e58-696ba57f7629)</br>
+![architecture](https://github.com/user-attachments/assets/5d62eade-54ad-4665-9e58-696ba57f7629)
+</br>
 
 <br>
 
