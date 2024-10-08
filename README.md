@@ -6,11 +6,13 @@
 4. 딥러닝: CNN
 5. Data: 0~9이미지의 MNIST train:60000, test: 30000
 
+<h2> 모델 설계</h2>
 <br>
 
 ![architecture](https://github.com/user-attachments/assets/5d62eade-54ad-4665-9e58-696ba57f7629)
 </br>
 
+<h2>결과</h2>
 <br>
 
 ![output](https://github.com/user-attachments/assets/5fd5b7d9-2c39-4dfb-b55e-63130de83a80)
