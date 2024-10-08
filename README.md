@@ -19,6 +19,9 @@
 </br>
 
 참고문헌: Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
+
+
+
 고찰: 성능적으로는 우수하지만, Transform을 어떻게 준야ㅔ 따라 성능을 감소시키는 기법들이 무엇인지 리포트하고 싶다
 
 
